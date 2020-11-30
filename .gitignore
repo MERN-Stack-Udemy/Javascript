@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 .eslintcache
+src/giphy/api_key.js
 
 # testing
 /coverage
